@@ -1,10 +1,11 @@
+[![MasterHead](https://www.lambdatest.com/resources/images/Software-Test-Management.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nandhini Kandasamy</h1>
 <h3 align="center">A passionate Software tester from Chennai,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandhinikandasamy1&label=Profile%20views&color=0e75b6&style=flat" alt="nandhinikandasamy1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandhinikandasamy1" alt="nandhinikandasamy1" /></a> </p>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif">
 - 🌱 I’m currently learning **Automation, Python, etc**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nandhinikandasamy1/PythonPrograms](https://github.com/Nandhinikandasamy1/PythonPrograms)
