@@ -19,6 +19,8 @@
 
 <h3 align="left">My Certifications</h3>
 <p align="left"> <a> <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-96885db3-dd21-4d33-b770-ddca4182db32.jpg" alt="css3" width="250" height="200"/> </a></p> 
+<p align="left"> [https://drive.google.com/file/d/1s43j0abnGSPJ6GoeqDn5xF8EZw9yQD2P/view] - Excel Masterclass certification</p> 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
