@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandhinikandasamy1" alt="nandhinikandasamy1" /></a> </p>
 
-- 🌱 I’m currently learning **Automation, Python, etc**
+- 🌱 I’m currently learning **Cloud technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nandhinikandasamy1/PythonPrograms](https://github.com/Nandhinikandasamy1/PythonPrograms)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **srinadhini@gmail.com**
 
-- 📄 Know about my experiences [Productive 8+ years](Productive 8+ years)
+- 📄 Know about my experiences [Productive 9+ years](Productive 9+ years)
 
 <h3 align="left">My Certifications</h3>
 <p align="left"> <a> <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-96885db3-dd21-4d33-b770-ddca4182db32.jpg" alt="css3" width="250" height="200"/> </a></p> 
