@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **srinadhini@gmail.com**
 
-- 📄 Know about my experiences [Productive 9+ years](Productive 9+ years)
+- 📄 Know about my experiences [Productive 6+ years](Productive 6+ years)
 
 <h3 align="left">My Certifications</h3>
 <p align="left"> <a> <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-96885db3-dd21-4d33-b770-ddca4182db32.jpg" alt="css3" width="250" height="200"/> </a></p> 
